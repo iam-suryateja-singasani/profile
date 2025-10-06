@@ -49,16 +49,19 @@ I'm <b>SuryaTeja Singasani</b> from <b>India</b> 🇮🇳  <br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="50" alt="Terraform logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50" alt="GitHub Actions logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub Actions logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/argo-icon-color.svg" height="50" alt="GitOps (ArgoCD) logo" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="50" alt="ArgoCD logo" />
   <img width="12" />
   <img src="https://seeklogo.com/images/J/jfrog-logo-2484D5C810-seeklogo.com.png" height="50" alt="JFrog logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" height="50" alt="Snyk logo" />
   <img width="12" />
-  <img src="https://companieslogo.com/img/orig/WIZ_BIG.D-94d4ff3c.png?t=1720938365" height="50" alt="Wiz logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/wiz-1.svg" height="50" alt="Wiz logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python logo" />
 </div>
+
 ###
 
 <h3 align="left">🔥 My Stats :</h3>
