@@ -62,4 +62,25 @@ I'm <b>SuryaTeja Singasani</b> from <b>India</b> 🇮🇳  <br><br>
 
 ###
 
+
+### 🏆 Certifications
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Awards-3%20R%26Rs-FFAA00?style=for-the-badge&logo=trophy&logoColor=white" height="30" alt="3 Rewards & Recognitions"/>
+  <img width="8"/>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/3M6QCEX102V41QKQ" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Badge" height="30"/>
+  </a>
+  <img width="8"/>
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2f7b7f9a-0cf7-455f-9d5a-99d04dcae024-singasani-surya-teja-2ef2fe7e-0ea8-4c56-884c-cc50161be14d-certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA Badge" height="30"/>
+  </a>
+  <img width="8"/>
+  <a href="https://credentials.newrelic.com/85a80e9b-4cd8-476c-9587-49b1ef76d3c7#acc.kTIXblsP" target="_blank">
+    <img src="https://img.shields.io/badge/New%20Relic-Certified-0080FF?style=for-the-badge&logo=new-relic&logoColor=white" alt="New Relic Badge" height="30"/>
+  </a>
+</div>
+
+
+###
 <h3 align="left">🔥 My Stats :</h3>
