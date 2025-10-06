@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/suryateja-singasani/](https://www.linkedin.com/in/suryateja-singasani-514b42319/)" target="_blank">
+  <a href="https://www.linkedin.com/in/suryateja-singasani-514b42319/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="mailto:suryatejadivum@gmail.com" target="_blank">
@@ -33,7 +33,7 @@ I'm <b>SuryaTeja Singasani</b> from <b>India</b> 🇮🇳  <br><br>
 - ⚡ In my free time, I love exploring <b>tech blogs, open-source tools, and cloud certifications</b>  <br>
 - 🏆 Certified in <b>AWS, Kubernetes (CKA), and New Relic</b>  <br><br>
 💬 Feel free to connect with me on 
-<a href="[https://www.linkedin.com/in/suryateja-singasani/](https://www.linkedin.com/in/suryateja-singasani-514b42319/)">LinkedIn</a> or check out my projects below!
+<a href="https://www.linkedin.com/in/suryateja-singasani-514b42319/">LinkedIn</a> or check out my projects below!
 </p>
 
 ###
