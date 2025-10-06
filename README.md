@@ -53,8 +53,6 @@ I'm <b>SuryaTeja Singasani</b> from <b>India</b> 🇮🇳  <br><br>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="50" alt="ArgoCD logo" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/J/jfrog-logo-2484D5C810-seeklogo.com.png" height="50" alt="JFrog logo" />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" height="50" alt="Snyk logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/wiz-1.svg" height="50" alt="Wiz logo" />
